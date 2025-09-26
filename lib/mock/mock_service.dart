@@ -5,7 +5,7 @@ class MockService extends ChangeNotifier {
     'title': 'Shape of You',
     'artist': 'Ed Sheeran',
     'requestedByName': 'Rahul',
-    'dedicationTo': 'Sita',
+    'dedicationTo': 'Lin',
     'duration': 240, // seconds
     'position': 42, // demo current playback position
   };
@@ -14,21 +14,21 @@ class MockService extends ChangeNotifier {
     {
       'title': 'Believer',
       'artist': 'Imagine Dragons',
-      'requestedByName': 'Aman',
+      'requestedByName': 'Tomba',
       'dedicationTo': 'Team',
       'duration': 204,
     },
     {
       'title': 'Levitating',
       'artist': 'Dua Lipa',
-      'requestedByName': 'Neha',
-      'dedicationTo': '',
+      'requestedByName': 'Chaoba',
+      'dedicationTo': 'Frnd',
       'duration': 203,
     },
     {
       'title': 'Blinding Lights',
       'artist': 'The Weeknd',
-      'requestedByName': 'Saurabh',
+      'requestedByName': 'Tombi',
       'dedicationTo': 'All',
       'duration': 200,
     },

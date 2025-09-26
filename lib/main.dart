@@ -51,8 +51,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Live Radio + Requests',
-            style: TextStyle(fontWeight: FontWeight.w600)),
+        title:
+            Text('Chingu Music', style: TextStyle(fontWeight: FontWeight.w600)),
         elevation: 0,
         actions: [
           IconButton(
